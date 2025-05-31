@@ -36,12 +36,12 @@ Pixar has created some of the most iconic animated films in cinematic history. B
 - **Commercial Success**: Net profit ≥ Budget AND average or above rating  
 - **Underperformer**: Net profit < Budget OR below-average rating
 
-## 📂 Project Structu## 📂 Project Structure
+## 📂 Project Structure 📂 Project Structure
 
 - README.md: Main explanation of the project.
 - Resources: Holds the original dataset or any supporting CSVs/files
-- SQL_Scripts: Contains SQL files used for querying and analysis.
+- Project_Query: Contains SQL files used for querying and analysis.
 - Presentation Link: [SQL PROJECT-PIXAR](https://drive.google.com/drive/folders/1YIRQcYZnXbZC827tzqNrsrqhPXH-EdPD?usp=drive_link)
-                     #Both the PPT and video presentation is in the folder abovementioned. Please Click on the link to see it.
+                     #Both the PPT and video presentation is in the folder 'SQL PROJECT - PIXAR'. Please Click on the link to see it.
 
 
