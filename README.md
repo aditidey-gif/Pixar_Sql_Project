@@ -20,8 +20,8 @@ Pixar has created some of the most iconic animated films in cinematic history. B
 ## 🛠️ Tech Stack
 
 - **Database:** MySQL (Relational Database)
-- **Tools Used:** SQL Views, Grouping, Joins, Aggregates, CASE statements
-- **Visualization:** PowerPoint (for data storytelling)
+- **Tools Used:** SQL Views, Grouping, Joins, Aggregates, CASE statements, Window Function, Common Table Expression
+- **Visualization:** Microsoft Excel(for visualization of data) and PowerPoint (for presentation)
 
 ## 🧠 Insights & Outcomes
 
