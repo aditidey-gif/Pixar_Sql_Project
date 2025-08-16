@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/bf3fa81e-b52b-45c6-8fb7-f7d8bd5e7602" />
+
 # Pixar_Sql_Project
  Animation meets analytics!
 
